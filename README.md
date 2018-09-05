@@ -16,11 +16,11 @@ or: `nodemon bamazonCustomer.js` (this keeps the app running without having to o
 
 ### Example
 
-1. ![GitHub Logo](part1.jpg)
-2. ![GitHub Logo](part2.jpg)
-3. ![GitHub Logo](part3.jpg)
-4. ![GitHub Logo](part4.jpg)
-5. ![GitHub Logo](part5.jpg)
+1. ![Alt text](part1.jpg)
+2. ![Alt text](part2.jpg)
+3. ![Alt text](part3.jpg)
+4. ![Alt text](part4.jpg)
+5. ![Alt text](part5.jpg)
 
 ## ToDo:
 
