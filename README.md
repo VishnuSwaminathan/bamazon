@@ -16,11 +16,11 @@ or: `nodemon bamazonCustomer.js` (this keeps the app running without having to o
 
 ### Example
 
-1. ![Image](/part1.jpg?raw=true)
-2. ![Image](/part2.jpg?raw=true)
-3. ![Image](/part3.jpg?raw=true)
-4. ![Image](/part4.jpg?raw=true)
-5. ![Image](/part5.jpg?raw=true)
+1. ![Image](https://github.com/VishnuSwaminathan/bamazon/blob/master/part1.JPG?raw=true)
+2. ![Image](https://github.com/VishnuSwaminathan/bamazon/blob/master/part2.JPG?raw=true)
+3. ![Image](https://github.com/VishnuSwaminathan/bamazon/blob/master/part3.JPG?raw=true)
+4. ![Image](https://github.com/VishnuSwaminathan/bamazon/blob/master/part4.JPG?raw=true)
+5. ![Image](https://github.com/VishnuSwaminathan/bamazon/blob/master/part5.JPG?raw=true)
 
 ## ToDo:
 
