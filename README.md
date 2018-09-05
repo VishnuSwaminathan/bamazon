@@ -16,11 +16,11 @@ or: `nodemon bamazonCustomer.js` (this keeps the app running without having to o
 
 ### Example
 
-1. ![Screenshot](/part1.jpg)
-2. ![Screenshot](/part2.jpg)
-3. ![Screenshot](/part3.jpg)
-4. ![Screenshot](/part4.jpg)
-5. ![Screenshot](/part5.jpg)
+1. ![Image](/part1.jpg?raw=true)
+2. ![Image](/part2.jpg?raw=true)
+3. ![Image](/part3.jpg?raw=true)
+4. ![Image](/part4.jpg?raw=true)
+5. ![Image](/part5.jpg?raw=true)
 
 ## ToDo:
 
